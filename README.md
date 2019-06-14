@@ -2,6 +2,7 @@ Summary:
 
 A ready-to-use UiPath workflow for Outlook Automation that can be integrated easily with any project across different customers that too without any modification.
 
+
 What it is?
 
 Read email and download attachments is one of the most common functionality that we come across in almost every RPA implementation.
@@ -14,13 +15,13 @@ If email has one or more attachment, it creates the folder Data\Input inside pro
 
 Successfully tested the execution for different customers. It works very well without any change in code. It can be run standalone or can be integrated with any project.
 
+
 Project repository details:
 
-/Data/Config.xlsx
+1. /Data/Config.xlsx
+2. Read Email.xaml
+3 .project.json
 
-Read Email.xaml
-
-project.json
 
 How to use Read Email By Subject Plug & Play workflow?
 
